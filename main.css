@@ -29,3 +29,6 @@ input {
     background-color: rgba(0, 217, 255, 0.35);
 }
 
+@media (min-width: 544px) {  
+  h1 {font-size:1rem;} /*1rem = 16px*/
+}
